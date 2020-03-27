@@ -9,5 +9,5 @@
 <entry key="pkg-signer">O=VMware,OU=Unknown,CN=vRO v-app-vra01.hobo.lab 5e3216e3-34c4-4f46-9591-d11674ffae52</entry>
 <entry key="pkg-owner">O=VMware,OU=Unknown,CN=vRO v-app-vra01.hobo.lab 5e3216e3-34c4-4f46-9591-d11674ffae52</entry>
 <entry key="vso-version">7.6.0.14536580</entry>
-<entry key="pkg-id">ff80808168ded687016910a76e4d0e34</entry>
+<entry key="pkg-id">ff808081711c95dc01711ca68d5e0413</entry>
 </properties>
